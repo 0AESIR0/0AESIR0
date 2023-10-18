@@ -1,9 +1,9 @@
 
-<h1>Hi guys 👋 Welcome to my github profile <img align="right" src="https://komarev.com/ghpvc/?username=DeveloperKubilay&color=green" /></h1>
+<h1>Hi guys 👋 Welcome to my github profile <img align="right" src="https://komarev.com/ghpvc/?username=0AESIR0&color=green" /></h1>
 
-❓ Hi I'm kubilay 15 years old <br>
-🛠️ nodejs,html,ejs,css,js developer <br>
-🌐 Discord: <b>kubi#5443<b> 
+❓ Hi I'm AESIR <br>
+🛠️ c#,html,js,nodejs,css developer <br>
+🌐 Discord: <b>aesir0<b> 
 
 <h2>📱 Social Media</h2>
 <img width="45%" src="https://lanyard.cnrad.dev/api/852583803255914507"/><br>
