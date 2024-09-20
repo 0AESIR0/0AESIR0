@@ -8,11 +8,11 @@
 <h2>📱 Social Media</h2>
 <img width="45%" src="https://lanyard.cnrad.dev/api/725862126123745372"/><br>
 <img width="35%" src="https://spotify-github-profile.vercel.app/api/view?uid=21ohbgzqftja2ig3kwrgsjoni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
-<a href="https://discord.gg/kXxteHatHn"><img width="15%" src="https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"/></a>
+<a href="https://discord.gg/PpYhNXnyyF"><img width="15%" src="https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"/></a>
 
 
 <h2>🧑‍💻 Technologies I use </h2>
-<img width="85%" src="https://skillicons.dev/icons?i=cs,php,html,js,css,visualstudio,nodejs,electron,python,discord,vscode,replit,linux"/>
+<img width="85%" src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,php,html,js,css,nodejs,electron,python,discord,replit,linux"/>
 
 <h2>🌟 Github Stats </h2>
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=0AESIR0&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8"/>
