@@ -2,7 +2,7 @@
 <h1>Hi guys 👋 Welcome to my github profile <img align="right" src="https://komarev.com/ghpvc/?username=0AESIR0&color=green" /></h1>
 
 ❓ Hi I'm AESIR <br>
-🛠️ c#,html,js,nodejs,css developer <br>
+🛠️ c#,html,js,php developer <br>
 🌐 Discord: <b>aesir0<b> 
 
 <h2>📱 Social Media</h2>
