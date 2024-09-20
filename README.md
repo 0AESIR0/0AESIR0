@@ -12,7 +12,7 @@
 
 
 <h2>🧑‍💻 Technologies I use </h2>
-<img width="85%" src="https://skillicons.dev/icons?i=cs,html,js,css,visualstudio,nodejs,electron,python,discord,vscode,java,replit,linux"/>
+<img width="85%" src="https://skillicons.dev/icons?i=cs,php,html,js,css,visualstudio,nodejs,electron,python,discord,vscode,replit,linux"/>
 
 <h2>🌟 Github Stats </h2>
 <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=0AESIR0&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8"/>
