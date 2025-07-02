@@ -1,21 +1,34 @@
+<p align="center">
+  <img src="./back.png" width="100%" />
+</p>
 
-<h1>Hi guys 👋 Welcome to my github profile <img align="right" src="https://komarev.com/ghpvc/?username=0AESIR0&color=green" /></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=440&lines=🛠️+Node.js+%2F+Web+Developer;💀+Cyberpunk+Enthusiast;🌐+Discord:+aesir0;👾+Living+in+Terminal" />
+</p>
 
-❓ Hi I'm AESIR <br>
-🛠️ c#,html,js,php developer <br>
-🌐 Discord: <b>aesir0<b> 
+---
 
-<h2>📱 Social Media</h2>
-<img width="45%" src="https://lanyard.cnrad.dev/api/725862126123745372"/><br>
-<img width="35%" src="https://spotify-github-profile.vercel.app/api/view?uid=21ohbgzqftja2ig3kwrgsjoni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
-<a href="https://discord.gg/PpYhNXnyyF"><img width="15%" src="https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"/></a>
+## 🧠 About Me
 
+```js
+const aesir = {
+  alias: "0AESIR0",
+  role: "Full Stack Developer",
+  languages: ["JavaScript", "Node.js", "HTML/CSS"],
+  tools: ["Discord.js", "Express", "MongoDB"],
+  mood: "dark-mode-only",
+  status: "constantly in dev mode"
+};
 
-<h2>🧑‍💻 Technologies I use </h2>
-<img width="85%" src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,php,html,js,css,nodejs,electron,python,discord,replit,linux"/>
-
-<h2>🌟 Github Stats </h2>
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=0AESIR0&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8"/>
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=0AESIR0&theme=dark&locale=en&background=45%2C0D1117%2C0D1117&border=0D1117"/>
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AESIR0&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=6">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=0AESIR0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&color=fffff" />
+```
+🚀 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0AESIR0&theme=react-dark&hide_border=true&bg_color=0d1117&line=00ffff&point=ffffff" width="100%" />
+</p>
+<p align="center"> 
+  <a href="https://www.youtube.com/@LeuceYT" target="_blank"> <img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/725862126123745372" target="_blank"> <img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0AESIR0&style=flat-square&color=008b00" />
+</p>
